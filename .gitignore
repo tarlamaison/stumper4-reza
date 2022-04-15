@@ -1,0 +1,11 @@
+pokemon
+tests/unit_tests
+tests/.score
+pokecfg/
+*.o
+*.gcda
+*.gcno
+logs/
+vgcore.*
+.vscode/
+.idea/
